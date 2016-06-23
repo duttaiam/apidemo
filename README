@@ -1,0 +1,24 @@
+API Demo Play application
+=================================
+
+A simple Play Framework application that exposes RESTful APIs by fetching data from a MySQL database.
+
+Controllers
+===========
+
+- HomeController.java:
+
+  Shows how to handle simple HTTP requests.
+
+- BookController.java:
+
+  Shows how to return a JSON array response.
+
+Components
+==========
+
+- Book.java:
+
+  Book entity managed by Ebean.
+
+  

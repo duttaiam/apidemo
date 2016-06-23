@@ -1,0 +1,9 @@
+New log file opened at Wed Jun 22 05:45:30 EDT 2016 by 8509@localhost.localdomain
+Sending msg to client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5: DetachedLogEvent(LogMessage(debug,sbt server socket logs are in: /var/www/helloworld/.sbtserver/connections/master.log))
+Sending msg to client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5: DetachedLogEvent(LogMessage(debug,sbt client logs are in: /var/www/helloworld/.sbtserver/connections/play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5.log))
+Sending msg to client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5: DetachedLogEvent(LogMessage(debug,sbt general server logs are in: /var/www/helloworld/.sbtserver/master.log))
+Reading next message from client.
+Client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5 EOF, shutting down.
+Stopping client.
+Dropping message (0,ReceivedResponse()) to dead client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5
+Client play-fork-run-dbb2b3bb-35aa-4033-b427-145fa87798e5 thread exiting.
